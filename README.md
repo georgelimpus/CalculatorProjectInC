@@ -30,6 +30,9 @@ The aim of the project was to gain hands-on experience with embedded systems pro
 
 ## Notes
 
+
 * Developed and tested in 2023.
 * Designed for educational purposes as part of ELEC3662 coursework.
 
+
+<img width="1755" height="1704" alt="LCDandKeypad_bb" src="https://github.com/user-attachments/assets/fd07c740-e121-4f47-916d-13ecb1b47b1d" />
